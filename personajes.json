@@ -1,0 +1,60 @@
+[
+    {
+        "id": 0,
+        "tipo": "Caballera",
+        "raza": "Humano",
+        "poder": 8,
+        "vida": 15,
+        "foto": "./img/Heroes/CaballeraWhitehair.png"
+    },
+    {
+        "id": 1,
+        "tipo": "Espadachín",
+        "raza": "Elfo",
+        "poder": 8,
+        "vida": 15,
+        "foto": "./img/Heroes/ElfaDobleEspada.png"
+    },
+    {
+        "id": 2,
+        "tipo": "Saqueador",
+        "raza": "Enano",
+        "poder": 5,
+        "vida": 20,
+        "foto": "./img/Heroes/EnanoScavenger.png"
+    },
+    {
+        "id": 3,
+        "tipo": "Mago",
+        "raza": "Humana",
+        "poder": 9,
+        "vida": 10,
+        "foto": "./img/Heroes/HumanaMaga.png"
+    },
+    {
+        "id": 4,
+        "tipo": "Asesino",
+        "raza": "Elfo Gris",
+        "poder": 9,
+        "vida": 10,
+        "foto": "./img/Heroes/HumanoAsesino.png"
+    },
+    {
+        "id": 5,
+        "tipo": "Caballero",
+        "raza": "Humano",
+        "poder": 8,
+        "vida": 15,
+        "foto": "./img/Heroes/HumanoCaballero.png"
+    },
+    {
+        "id": 6,
+        "tipo": "Paladin",
+        "raza": "Humano",
+        "poder": 5,
+        "vida": 20,
+        "foto": "./img/Heroes/HumanoPaladin.png"
+    }
+]
+
+

@@ -1,0 +1,75 @@
+[
+    {
+        
+        "id": 0,
+        "tipo": "Fantasmal",
+        "raza": "Invocación",
+        "poder": 7,
+        "foto": "./img/Villanos/AparicionDamaBlanca.png",
+        "vida": 12
+    },
+    {
+        "id": 1,
+        "tipo": "Aparición",
+        "raza": "Invocación",
+        "poder": 8,
+        "foto": "./img/Villanos/AparicionHechicero.png",
+        "vida": 11
+    },
+    {
+        "id": 2,
+        "tipo": "Demonio",
+        "raza": "Invocación",
+        "poder": 9,
+        "foto": "./img/Villanos/DemonioCalabaza.png",
+        "vida": 12
+    },
+    {
+        "id": 3,
+        "tipo": "Bestia",
+        "raza": "Dragón",
+        "poder": 10,
+        "foto": "./img/Villanos/Dragon.png",
+        "vida": 18
+    },
+    {
+        "id": 4,
+        "tipo": "Bárbaro",
+        "raza": "Undead",
+        "poder": 7,
+        "foto": "./img/Villanos/EsqueletoBarbaro.png",
+        "vida": 15
+    },
+    {
+        "id": 5,
+        "tipo": "Bestia",
+        "raza": "Undead",
+        "poder": 8,
+        "foto": "./img/Villanos/EsqueletoCuatroBrazos.png",
+        "vida": 12
+    },
+    {
+        "id": 6,
+        "tipo": "Bandido",
+        "raza": "Goblin",
+        "poder": 8,
+        "foto": "./img/Villanos/Goblin.png",
+        "vida": 9
+    },
+    {
+        "id": 7,
+        "tipo": "Bestia",
+        "raza": "Warewolf",
+        "poder": 8,
+        "foto": "./img/Villanos/HombreLobo.png",
+        "vida": 12
+    },
+    {
+        "id": 8,
+        "tipo": "Bestia",
+        "raza": "Lagarto",
+        "poder": 8,
+        "foto": "./img/Villanos/LagartoideOrco.png",
+        "vida": 18
+    }
+]

@@ -1,0 +1,51 @@
+body{
+    background-image: url(./img/fondo.jpg);
+/* background-attachment: fixed; */
+background-size: cover;
+
+    text-align: center;
+}
+
+p, img, header{  background-color: rgba(255, 255, 255, 0.5);
+    font-size: 50px;
+    font-weight: 600;
+    text-decoration: underline;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#batalla{
+    height: 50px;
+    width: 150px;
+    margin-bottom: 25px;
+    background: red;
+    border-radius: 8px;
+    font-weight: 1000;
+    border: 3px solid white;
+}
+
+.box{
+    border: 3px solid black;
+    overflow-x: scroll;
+    margin: 10px;
+}
+h2{
+    border-radius: 8px;
+    background-color: white;
+}
+
+h5{
+    border: 1px solid white;
+}
+
+h3, thead{
+    color: white;
+}
+
+#derrotados{
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+    background-color: lightgrey;
+    border: 3px solid black;
+}
